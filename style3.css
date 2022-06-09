@@ -1,0 +1,118 @@
+body{
+    background-color:#C399EB;
+    margin: 0;
+    text-align: center;
+    font-family:'Merriweather',serif;
+    font-size:100%;
+}
+.top-con{
+background-color: rgb(180, 127, 230);
+position: relative;
+padding-top:100px;
+}
+.cloud{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    right: 100px;
+    top: 5px;
+         
+}
+.cloud1{
+    width: 300px;
+    height: 200px;
+    position: absolute;
+    left: 100px;
+    bottom: 300px;
+
+}
+.mountain{
+    width: 800px;
+    height: 600px;
+   
+}
+.dp{
+height: 200px;
+width: 200px;
+border: 2px solid palevioletred;
+border-radius:1000000000px
+
+}
+.middle-con{
+background-color:#C399EB;
+margin: 100px 0;
+}
+.html{
+    float: left;
+    width: 20%;
+    margin-right: 30px;
+    border-radius: 100%;
+}
+.css{
+    width: 20%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 100%;   
+}
+.intro{
+  width: 30%;  
+  margin: auto;
+}
+.skillrow {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+.last-con{
+background-color: rgb(123, 45, 196);
+padding: 50px 0 2px;
+}
+.contact{
+ width: 40%;
+ margin: 40px auto 60px;   
+}
+.btn{
+    background-color: blueviolet;
+    border-radius: 8px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color:white;
+    padding: 10px 20px;
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: rgb(168, 136, 199);
+}
+.web{
+    color:rgb(123, 45, 196);
+    font-size: 2rem;
+}
+hr{
+    
+    border: dotted  rgb(123, 45, 196) 6px;
+    border-bottom: none;
+    width: 4%;
+}
+p{
+    line-height: 2;
+}
+h1{
+color:rgb(123, 45, 196);    
+font-size:5rem ;
+line-height: 2;
+margin-top:50px auto 0 auto;
+font-family: 'Sacramento', cursive;
+}
+h2{
+    color:rgb(123, 45, 196);
+font-size: 2rem;
+font-family:'montserrat', sans-serif;
+font-weight: normal;
+padding-bottom: 10px;
+ }
+h3{
+    color:rgb(123, 45, 196);
+ font-family: 'montserrat', sans-serif;
+
+}
